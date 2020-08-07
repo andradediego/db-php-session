@@ -1,7 +1,12 @@
 h2 {
 	font-weight: bold;
 }
+
 .bg {
 	padding: 10px;
 	border-radius: 8px;
+}
+
+.hide-element {
+	display: none;
 }
